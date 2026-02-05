@@ -1,0 +1,7 @@
+{
+  "name": "ExamenPDM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
